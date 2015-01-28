@@ -12,7 +12,7 @@ Create a virtual network which contains gateway, DHCP relay server, DHCP server 
 ### Prerequisite
 Ubuntu 14.04 or  12.04 supporting 802.1q module
 
-Installed Mininet 2.1.0
+Mininet 2.1.0
 
 
 

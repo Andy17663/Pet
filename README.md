@@ -1,6 +1,6 @@
 # Mininet in Sdn-app-v2
 
-Create a virtual network which contains gateway, DHCP relay server, DHCP server and multiple end-hosts. It is uesed to simulate a multi-vlan network for enterprise network.
+Create a virtual network which contains gateway, DHCP relay server, DHCP server and multiple end-hosts. It is used to simulate a multi-vlan network for enterprise network.
 
   - Gateway  -  Response for delivering packets from one subnet to another subnet (inter-vlan routing)
   - DHCP relay server  - Aside from gateway, use to pass and transform DHCP packet.

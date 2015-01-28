@@ -33,7 +33,7 @@ $ sudo apt-get install isc-dhcp-server
 
 Can either run Mininet and ODL in same machine or in different. 
 
-Firstable, need ODL opened with Sdn-app-v2, switch directory to estinet-karaf in sdn-app-v2-distribution
+Firstable open ODL with Sdn-app-v2, then change directory to estinet-karaf in sdn-app-v2-distribution
 
 ```sh
 $ sudo ./target/assemble/bin/karaf clean

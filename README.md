@@ -31,7 +31,7 @@ $ sudo apt-get install isc-dhcp-server
 
 ### Experiment
 
-Can either run Mininet with ODL in same machine or in different. 
+Can either run Mininet and ODL in same machine or in different. 
 
 Firstable, need ODL opened with Sdn-app-v2, switch directory to estinet-karaf in sdn-app-v2-distribution
 

@@ -1,4 +1,4 @@
-# Mininet in Sdn-app-v2
+# Mininet in sdn-app-v2
 
 Create a virtual network which contains gateway, DHCP relay server, DHCP server and multiple end-hosts. It is used to simulate a multi-vlan network for enterprise network.
 

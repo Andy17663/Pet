@@ -9,14 +9,5 @@ nothing added to commit but untracked files present (use "git add" to track)
 ohoho
 
 
-
-
-hahahahahahah
-
-continue to develop
-
-gogo
-ggogo
-
-alot file
+branch add
 

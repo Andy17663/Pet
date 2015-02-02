@@ -1,0 +1,3 @@
+[submodule "user_guide"]
+	path = user_guide
+	url = git@github.com:Andy17663/Pet.git

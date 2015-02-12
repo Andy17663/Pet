@@ -1,4 +1,5 @@
 
+
 master editor 1
 master editor 2
 
@@ -8,5 +9,13 @@ branch edit1
 andy test
 
 
+# On branch v1
+# Untracked files:
+#
+#       test.txt
+andydd
+nothing added to commit but untracked files present (use "git add" to track)
 
-andy test2
+andy test3
+andy test4
+
